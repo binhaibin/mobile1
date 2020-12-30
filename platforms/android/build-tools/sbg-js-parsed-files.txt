@@ -1,0 +1,4 @@
+E:\smile_git\app-mobile-sml\platforms\android\app\src\main\assets\app\bundle.js
+E:\smile_git\app-mobile-sml\platforms\android\app\src\main\assets\app\runtime.js
+E:\smile_git\app-mobile-sml\platforms\android\app\src\main\assets\app\tns-java-classes.js
+E:\smile_git\app-mobile-sml\platforms\android\app\src\main\assets\app\vendor.js

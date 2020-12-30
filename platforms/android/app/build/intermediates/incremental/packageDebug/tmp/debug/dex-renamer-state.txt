@@ -1,0 +1,4 @@
+#Sat Dec 05 09:15:06 ICT 2020
+base.0=E\:\\smile_git\\app-mobile-sml\\platforms\\android\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
